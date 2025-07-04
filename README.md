@@ -1,7 +1,7 @@
 '''
 ## Event Check-In App
 A real-time event check-in mobile application built with React Native (Expo) and Node.js GraphQL backend. This project allows users to join events using their User ID, view attendee count, and interact with live updates.
-
+<pre>'''
 ## Features
 📲 User Login with just a User ID
 📋 Event List with name, location, and live attendee count
@@ -11,6 +11,7 @@ A real-time event check-in mobile application built with React Native (Expo) and
 🧭 Navigation between login and event pages
 🔓 Logout functionality
 🎨 Minimal modern UI with subtle styling
+</pre>
 
 ## Project Structure
 event-checkin-app/ (lives in zip folder)
