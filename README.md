@@ -11,7 +11,9 @@ A real-time event check-in mobile application built with React Native (Expo) and
 🔓 Logout functionality
 🎨 Minimal modern UI with subtle styling
 
-📁 Project Structure
+## 📁 Project Structure
+
+```
 event-checkin-app/ (lives in zip folder)
 ├── app/
 │   ├── index.tsx           # Login screen (landing page)
