@@ -75,14 +75,14 @@ npm run dev
 Runs at: http://localhost:4000/graphql
 </pre>
 ## Screenshots
-<pre>'''
+
 login page
 ![1000404704](https://github.com/user-attachments/assets/b6982d28-7256-4cd3-a0de-906a17e9377f)
-</pre>
-<pre>'''
+
+
 event list
 ![1000404703](https://github.com/user-attachments/assets/5ecd389b-2437-42ba-8fde-0be511a2acf2)
-</pre>
+
 ## Future Improvements
 <pre>'''
 Authentication (JWT or Auth0)
